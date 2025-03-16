@@ -1,0 +1,120 @@
+@import "tailwindcss";
+
+.img{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoUlVYeW3XGXpEoGGxXofsgnx66Nk1zEePAg&s);
+    background-size: cover;
+}
+.img2{
+    background-image: url(https://cdn-images.dzcdn.net/images/cover/7babfe62d727b258e5d9255a302dc289/0x1900-000000-80-0-0.jpg);
+    background-size: cover;
+}
+.img3{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9zc9CJzI5nqt3NjMhMl2nuGS_RyUPZQOPiw&s);
+    background-size: cover;
+}
+.img4{
+    background-image: url(https://yt3.googleusercontent.com/I1LKUJORUqczAaRJrJx_ipSs97Mf6ZSF5aqR5GWYYpdgyochL5ZcZ3q6Udl9dewoW-8sDyt08w=s900-c-k-c0x00ffffff-no-rj);
+    background-size: cover;
+}
+/* album */
+.alb1{
+background-image: url(https://i.pinimg.com/736x/e0/c4/99/e0c4990bfb268ab6319c203484aba1a6.jpg);
+background-size: cover;
+}
+.alb2{
+    background-image: url(https://i.pinimg.com/736x/ed/5c/a5/ed5ca5cdeb92028060a0d9c2873ea914.jpg);
+    background-size: cover;
+}
+.alb3{
+    background-image: url(https://i.pinimg.com/736x/98/a8/dc/98a8dc52f9497e033a5f6290ceb0c369.jpg);
+    background-size: cover;
+}
+.alb4{
+    background-image: url(https://i.pinimg.com/736x/b3/18/0d/b3180dfc187a83932953534ccfa07c32.jpg);
+    background-size: cover;
+}
+.alb5{
+    background-image: url(https://i.pinimg.com/736x/f6/0e/56/f60e56ee311a66a73d81f4b9cc9c189c.jpg);
+    background-size: cover;
+}
+.alb6{
+    background-image: url(https://i.pinimg.com/736x/b1/bd/da/b1bddad38c26d5c5b2246ddc09814e3d.jpg);
+    background-size: cover;
+}
+/* singers */
+.sing1{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIABtrqQy06cSJJs9ea08af2biqmWgMramGA&s);
+    background-size: cover;
+    }
+    .sing2{
+        background-image: url(https://thetop10spot.com/wp-content/uploads/2023/05/sidhu-moose-wala-1.jpg);
+        background-size: cover;
+    }
+    .sing3{
+        background-image: url(https://tiermaker.com/images/chart/chart/punjabi-singers-2022-1591802/shubhjpeg.png);
+        background-size: cover;
+    }
+    .sing4{
+        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKIqW4XT2Ke21VZEqswYz_fm6bff9jSZXUyg&s);
+        background-size: cover;
+    }
+  .sing5{
+        background-image: url(https://i.scdn.co/image/ab67616100005174bc7e4fffd515b47ff1ebbc1f);
+        background-size: cover;
+    }
+ .sing6{
+        background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt1c2euY2fKas5diu7PFJKThVPLkxEyzRLUQ&s);
+        background-size: cover;
+    }
+
+
+.radio1{
+    background-image: url(https://i.pinimg.com/736x/36/d3/0b/36d30b9e3d544c5955fffd282c8e00a9.jpg);
+    background-size: cover;
+}
+.radio2{
+    background-image: url(https://i.pinimg.com/736x/ca/ee/bf/caeebfc6799ac62bafe022f2078ac54a.jpg);
+    background-size: cover;
+}
+.radio3{
+    background-image: url(https://i.pinimg.com/736x/1f/b2/e6/1fb2e6590c665f56929dcf43fb5229ef.jpg);
+    background-size: cover;
+}
+.radio4{
+    background-image: url(https://i.pinimg.com/736x/dd/1f/86/dd1f8603f6aec7b2588711918d8a3bb7.jpg);
+    background-size: cover;
+}
+.radio5{
+    background-image: url(https://i.pinimg.com/736x/47/5b/72/475b72acb3f65dd57e938e4eab8ac895.jpg);
+    background-size: cover;
+}
+
+.radio6{
+    background-image: url(https://i.pinimg.com/736x/0d/94/c2/0d94c2c39409ce52b2557d5721901606.jpg);
+    background-size: cover;
+}
+
+.chart1{
+    background-image: url(https://i.pinimg.com/736x/0c/cd/9b/0ccd9bfebbbf03083f28721e9aa4d15c.jpg);
+    background-size: cover;
+}
+.chart2{
+    background-image: url(https://i.pinimg.com/736x/6f/0c/87/6f0c8795872d375061e75ef9e71c91f5.jpg);
+    background-size: cover;
+}
+.chart3{
+    background-image: url(https://i.pinimg.com/736x/8d/81/99/8d8199614065bc42f36f94e67f3f5564.jpg);
+    background-size: cover;
+}
+.chart4{
+    background-image: url(https://i.pinimg.com/736x/04/60/ff/0460ff4ae56c89b6d6f6bf1f1bae7241.jpg);
+    background-size: cover;
+}
+.chart5{
+    background-image: url(https://i.pinimg.com/736x/f7/62/10/f76210034beecfa5570097f1e7fbfd5c.jpg);
+    background-size: cover;
+}
+.chart6{
+    background-image: url(https://i.pinimg.com/736x/29/1f/0b/291f0ba66d4d2b7491ae005f50656ec4.jpg);
+    background-size: cover;
+}
